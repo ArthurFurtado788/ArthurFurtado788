@@ -28,7 +28,7 @@ Aqui estão as ferramentas e tecnologias que utilizo para construir projetos de 
 Se você tem um projeto em mente ou quer trocar uma ideia sobre tecnologia, sinta-se à vontade para me chamar:
 
 * **WhatsApp:** [Clique aqui para falar comigo](https://wa.me/5547992343066)
-* **LinkedIn:** [Arthur Pereira Furtado](www.linkedin.com/in/arthur-pereira-furtado-5606123a7/)
+* **LinkedIn:** [Arthur Pereira Furtado](https://www.linkedin.com/in/arthur-pereira-furtado-5606123a7/)
 * **Portfólio:** [arthurpfurtadodev.vercel.app](https://arthurpfurtadodev.vercel.app/)
 
 ---
