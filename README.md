@@ -1,8 +1,8 @@
 # Olá, eu sou o Arthur Furtado! 👋
 
-### 🚀 Desenvolvedor Web & Estudante de Sistemas na UNIFEBE
+### 🚀 "Desenvolvedor De Software" & Estudante de Sistemas na UNIFEBE
 
-Sou um desenvolvedor focado em criar experiências digitais de alta performance e interfaces modernas. Atualmente, dedico meus estudos e projetos ao desenvolvimento de soluções web que unem design refinado e código limpo.
+Sou um estudante universitario aspirante a desenvolvedor de software. Atualmente, dedico meus estudos e projetos ao entendimento introdutório de linguagens de programação 
 
 ---
 
@@ -10,15 +10,15 @@ Sou um desenvolvedor focado em criar experiências digitais de alta performance 
 
 Aqui estão as ferramentas e tecnologias que utilizo para construir projetos de alto padrão:
 
-* **Front-end:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React.js.
-* **Design:** UI/UX Design com foco em conversão.
-* **Outros:** Git, GitHub, Vercel, SEO Técnico.
+* **Front-end:**
+* **Back-end:** 
+* **Outros:** Git, GitHub, Vercel.
 
 ---
 
 ### 📊 Meus Projetos em Destaque
 
-* **[Site Pessoal & Portfólio](https://arthurpfurtadodev.vercel.app/):** Landing page profissional com efeito glassmorphism, focada na venda de serviços de desenvolvimento web.
+* **[Site Pessoal & Portfólio](https://arthurpfurtadodev.vercel.app/):** Landing page profissional com efeito glassmorphism, focada no compartilhamento de projetos de desenvolvimento próprio.
 * **Projetos Acadêmicos:** Desenvolvimento de sistemas e lógicas de programação como parte da minha graduação na UNIFEBE.
 
 ---
@@ -36,7 +36,7 @@ Se você tem um projeto em mente ou quer trocar uma ideia sobre tecnologia, sint
 ### ⚡ Curiosidades
 - 📍 Baseado em Gaspar - SC.
 - 🎓 Cursando Sistemas de Informação na UNIFEBE.
-- 🌱 Atualmente aprofundando conhecimentos em performance web e arquitetura de sistemas.
+- 🌱 Atualmente aprofundando conhecimentos em desenvolvimento de software e arquitetura de sistemas.
 
 
 
