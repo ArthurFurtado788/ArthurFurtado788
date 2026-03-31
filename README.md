@@ -34,8 +34,21 @@ Se você tem um projeto em mente ou quer trocar uma ideia sobre tecnologia, sint
 
 
 # 💫 Sobre Mim:
-Olá, eu sou o Arthur Furtado! 👋<br>🚀 "Desenvolvedor De Software" & Estudante<br>Sou um estudante e aspirante a desenvolvedor de software. Atualmente, dedico meus estudos e projetos ao entendimento introdutório de linguagens de programação.
-Estou cursando Análise e Desenvolvimento de Sistemas EAD pela Uniasselvi e curso a formação JavaPro FULLSTACK pela ProWay de modo presencial.<br><br>🛠️ Minhas Tecnologias<br>Aqui estão as ferramentas e tecnologias que utilizo para construir projetos de alto padrão:<br><br>- Front-end:![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>- Back-end:<br>- Outros: Git, GitHub, Vercel.<br>📊 Meus Projetos em Destaque<br>- Site Portfólio:<br>Projetos Acadêmicos: Desenvolvimento de sistemas e lógicas de programação como parte da minha graduação e formação.<br>📫 Vamos nos conectar?<br>Se você tem um projeto em mente ou quer trocar uma ideia sobre tecnologia, sinta-se à vontade para me chamar:<br><br>WhatsApp: Clique aqui para falar comigo<br>LinkedIn: Arthur Pereira Furtado<br>Portfólio: arthurpfurtadodev.vercel.app<br>⚡ Curiosidades<br>📍 Baseado em Gaspar - SC.<br>🎓 Cursando Sistemas de Informação na UNIFEBE.<br>🌱 Atualmente aprofundando conhecimentos em desenvolvimento de software e arquitetura de sistemas.
+Olá, eu sou o Arthur Furtado! 👋
+<br>🚀 "Desenvolvedor De Software" & Estudante<br>Sou um estudante e aspirante a desenvolvedor de software. Atualmente, dedico meus estudos e projetos ao entendimento introdutório de linguagens de programação.
+Estou cursando Análise e Desenvolvimento de Sistemas EAD pela Uniasselvi e curso a formação JavaPro FULLSTACK pela ProWay de modo presencial.<br><br>
+🛠️ Minhas Tecnologias<br>Aqui estão as ferramentas e tecnologias que utilizo para construir projetos de alto padrão:<br><br>
+- Front-end:![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
+- Back-end:<br>
+- Outros: Git, GitHub, Vercel.<br>
+📊 Meus Projetos em Destaque<br>- Site Portfólio:<br>Projetos Acadêmicos: Desenvolvimento de sistemas e lógicas de programação como parte da minha graduação e formação.<br>
+📫 Vamos nos conectar?<br>Se você tem um projeto em mente ou quer trocar uma ideia sobre tecnologia, sinta-se à vontade para me chamar:<br><br>
+WhatsApp: Clique aqui para falar comigo<br>
+LinkedIn: Arthur Pereira Furtado<br>
+Portfólio: arthurpfurtadodev.vercel.app<br>
+⚡ Curiosidades<br>📍 Baseado em Gaspar - SC.<br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI.<br>
+🌱 Atualmente aprofundando conhecimentos em desenvolvimento de software, desenvolvimento WEB e arquitetura de sistemas.
 
 ---
 
