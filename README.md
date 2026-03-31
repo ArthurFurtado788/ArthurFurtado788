@@ -32,8 +32,8 @@ Aqui estão as tecnologias que estou aprendendo e utilizando para construir meus
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFurtado788&show_icons=true&theme=dark&rank_icon=github" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFurtado788&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurFurtado788&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurFurtado788&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
 </p>
 
 <p align="center">
