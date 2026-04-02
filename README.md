@@ -1,15 +1,15 @@
-# Olá, eu sou o Arthur Furtado! 👋
+# Olá, eu sou o Arthur Pereira Furtado!
 
-### 🚀 Desenvolvedor de Software em Formação & Universitário
+###  Desenvolvedor de Software em Formação & Universitário
 
 Sou um estudante e aspirante a desenvolvedor de software. Atualmente, dedico meus estudos e projetos ao entendimento sólido de lógica, linguagens de programação e arquitetura de sistemas.
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (EAD) pela Uniasselvi.
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (ADS) pela Uniasselvi.
 * ☕ Cursando a formação presencial **JavaPro FULLSTACK** pela ProWay.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 Aqui estão as tecnologias que estou aprendendo e utilizando para construir meus projetos:
 
@@ -18,13 +18,10 @@ Aqui estão as tecnologias que estou aprendendo e utilizando para construir meus
 
 ---
 
-### 📊 Meus Projetos em Destaque
+###  Meus Projetos em Destaque
 
 * 🌐 **Site Portfólio:** Meu espaço pessoal na web para centralizar minhas conexões e projetos.
-* 📚 **Projetos Acadêmicos:** Repositórios focados em lógica de programação e desafios práticos da faculdade e do curso presencial.
-
-> 💡 *Obs: À medida que for criando repositórios, colocarei os links diretos deles aqui!*
-
+* 📚 **Projetos De Estudo:** Repositórios focados em lógica de programação e desafios práticos.
 ---
 
 ### 📈 Estatísticas do GitHub
@@ -40,15 +37,15 @@ Aqui estão as tecnologias que estou aprendendo e utilizando para construir meus
 
 ---
 
-### 📫 Vamos nos conectar?
+### Vamos nos conectar?
 
 Se você tem um projeto em mente, quer trocar uma ideia sobre tecnologia ou tomar um café (mesmo que virtual), sinta-se à vontade para me chamar:
 
 * **LinkedIn:** [Arthur Pereira Furtado](www.linkedin.com/in/arthur-pereira-furtado)
 * **Portfólio:** [dominio-em-criação]()
-* 📍 Baseado em Gaspar - SC, Brasil.
+* Baseado em Santa Catarina, Brasil.
 
 ---
 
-### ✍️ Frase do Dia
+###  Frase do Dia
 ![Frase](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
